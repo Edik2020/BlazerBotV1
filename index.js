@@ -132,4 +132,4 @@ bot.on('guildMemberAdd', member => {
       logChannel.send(logEmbed);
     })
 
-bot.login(botconfig.token);
+bot.login(botconfig.ODA0MjU0OTUxMjE5MTM0NDY0.YBJqyg.lnSwmDeLT24tYkUDfYZR29qLKKY);
